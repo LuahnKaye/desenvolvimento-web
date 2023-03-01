@@ -1,0 +1,23 @@
+#Python
+
+Referência: https://www.python.org/
+
+Relação: Python é uma linguagem de programação orientada a objetos com recursos de programação de alto nível. O Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes.
+
+#Git
+
+Referência: https://git-scm.com/
+
+Relação: O git é um sistema de controle de versão de código aberto projetado para lidar com todos os tipos de problemas, desde projetos pequenos a muito grandes com muita velocidade e eficiencia.
+
+#VScode
+
+Referência: https://code.visualstudio.com/
+
+Relação: O VScode, é onde tudo acontece,um software dedicado a programadores criarem seus codigos de forma mais rapida e simples,tendo espaço para plugins e ferramentas de ajuda.
+
+#Sqlite
+
+Referência: https://sqlitebrowser.org/
+
+Relação: é uma ferramenta de código aberta destinada a criar desings e editar códigos, organizar e meio de pesquisa para seu codigo em um só aplicativo, tornando o muito mais simples e prático.
